@@ -6,6 +6,9 @@ function Products() {
     { id: 1, name: 'Brush Cutter', image: '/images/1.jpg' },
     { id: 2, name: 'Chaff Cutter', image: '/images/2.jpg' },
     { id: 3, name: 'Bailer', image: '/images/3.jpg' },
+    { id: 4, name: 'Power Spray Pump', image: '/images/4.jpg' },
+    { id: 5, name: 'Battery Spray Pump', image: '/images/5.jpg' },
+    { id: 6, name: 'Portable Sprayer', image: '/images/6.jpg' },
   ];
 
   return (
