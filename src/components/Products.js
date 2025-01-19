@@ -13,7 +13,7 @@ function Products() {
     { id: 8, name: 'Flour Miller', image: '/images/Flour Miller.jpg' },
     { id: 9, name: 'Rotavator', image: '/images/Rotavator.jpg' },
     { id: 10, name: 'Cultivator', image: '/images/Cultivator.jpg' },
-    { id: 11, name: 'Paddy Thresher', image: '/images/Paddy Thresher.jpg' },
+    { id: 11, name: 'Paddy Thrdesher', image: '/images/Paddy Thresher.jpg' },
     { id: 12, name: 'Seed-cum-Fertilizer Drill Machine', image: '/images/Seed-cum-Fertilizer Drill Machine.jpg' },
     { id: 13, name: 'Turmeric Boilers', image: '/images/Turmeric Boilers.jpg' },
     { id: 14, name: '7HP Weeder', image: '/images/7HP Weeder.jpg' },
