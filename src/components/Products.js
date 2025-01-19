@@ -19,6 +19,7 @@ function Products() {
     { id: 14, name: '7HP Weeder', image: '/images/7HP Weeder.jpg' },
     { id: 15, name: 'Makka Thresher Machine', image: '/images/Makka Thresher Machine.jpg' },
     { id: 16, name: 'Plough(Three-blade model)', image: '/images/Plough(Three-blade model).jpg' },
+    { id: 17, name: 'EV Scooty', image: '/images/EV Scooty.jpg' },
 
   ];
 
